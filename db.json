@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "productName": "phone 00",
+      "category": "Phones",
+      "freshness": "Brand new",
+      "price": 15260,
+      "comment": "dsaw",
+      "date": "2022-11-08T23:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "phone 02",
+      "category": "Phones",
+      "freshness": "Second hand",
+      "price": 200,
+      "comment": "jfghfg",
+      "date": "2022-11-05T23:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "phone 03",
+      "category": "Phones",
+      "freshness": "Refurbished",
+      "price": 180,
+      "comment": "ndfbtgf",
+      "date": "2022-11-23T23:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "Mehdi IJIKKI",
+      "category": "Fruits",
+      "freshness": "Brand new",
+      "price": 4,
+      "comment": "l.p;'",
+      "date": "2022-11-09T23:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "jlkhj,",
+      "category": "TVs",
+      "freshness": "Brand new",
+      "price": 245,
+      "comment": "fyuikl",
+      "date": "2022-11-17T23:00:00.000Z",
+      "id": 5
+    }
+  ]
+}
